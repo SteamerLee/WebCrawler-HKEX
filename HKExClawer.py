@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-#
-# Name:         ${NAME}
+# Name:         HKEXNewsClawer
 # Description:  This is the first prog. for crawler-2019-01-21
-# Author:       ${USER}
-# Date:         ${DATE}
+# Author:       Samuel Li
+# Date:         2019.02.22
 # coding=utf-8
 
 from selenium import webdriver
